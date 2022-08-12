@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tvsongssize">21sp</dimen>
+    <dimen name="tvsongs_margin">20dp</dimen>
+    <dimen name="tvsongs_padding">10dp</dimen>
+    <dimen name="musicimage_width">0dp</dimen>
+    <dimen name="musicimage_height">0dp</dimen>
+    <dimen name="musicimage_margin">0dp</dimen>
+    <dimen name="cardview_margin">5dp</dimen>
+    <dimen name="listView_width">0dp</dimen>
+    <dimen name="listView_height">0dp</dimen>
+    <dimen name="listView_dividerheight">10sp</dimen>
+    <dimen name="ListView_padding">9dp</dimen>
+    <dimen name="cardview_cornerRadius">10dp</dimen>
+    <dimen name="imageview_height">45dp</dimen>
+    <dimen name="imageview_marginend">20dp</dimen>
+    <dimen name="SongsName_textsize">25sp</dimen>
+</resources>
